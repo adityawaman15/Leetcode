@@ -37,9 +37,9 @@ class Solution {
 
             sub_ans.push_back(front->val);
 
-            for(int i = 0; i < front->children.size();i++){
-                if(front->children[i]){
-                q.push(front->children[i])
+            for(auto i:front->children){
+                if(i){
+                q.push(i)
                 ;}
             }
 
