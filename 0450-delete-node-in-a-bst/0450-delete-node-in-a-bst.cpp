@@ -28,6 +28,7 @@ public:
         else if(root->val == val){
             // 0 node
             if(root->left == NULL && root->right == NULL){
+                root = NULL;
                 delete root;
                 return NULL;
             }
@@ -36,12 +37,14 @@ public:
 
             if(root->left != NULL && root->right == NULL){
                 TreeNode* temp = root->left;
+                root = NULL;
                 delete root;
                 return temp;
             }
 
             if(root->right != NULL && root->left == NULL){
                 TreeNode* temp = root->right;
+                root = NULL;
                 delete root;
                 return temp;
             }
