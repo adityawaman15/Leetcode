@@ -29,10 +29,12 @@ public:
 
         while(i<j){
 
-            if(arr[i] + arr[j] == target){
+            int sum = arr[i] + arr[j];
+
+            if(sum == target){
                 return true;
             }
-            else if(arr[i] + arr[j] > target){
+            else if(sum > target){
                 j--;
             }
             else {
