@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    void traverse(TreeNode* root){
+    
+    void traverse(TreeNode* root,vector<int> &arr){
 
         if(root == NULL){
             return;
         }
-        traverse(root->left);
+        traverse(root->left,arr);
         arr.push_back(root->val);
-        traverse(root->right);
+        traverse(root->right,arr);
     }
     bool findTarget(TreeNode* root, int target) {
-
-        traverse(root);
+        vector<int> arr;
+        traverse(root,arr);
         int i = 0;
         int j = arr.size()-1;
+        
 
         while(i<j){
 
