@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-    TreeNode* solve (vector<int> &preorder, int &index, int mini, int maxi, int n){
+    TreeNode* solve (vector<int> &preorder, int &index, int mini, int maxi, int &n){
 
         if(index > n || preorder[index] > maxi || preorder[index] < mini){
             return NULL;
