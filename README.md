@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityawaman15/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityawaman15/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityawaman15/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityawaman15/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityawaman15/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/adityawaman15/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adityawaman15/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
@@ -120,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/adityawaman15/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
