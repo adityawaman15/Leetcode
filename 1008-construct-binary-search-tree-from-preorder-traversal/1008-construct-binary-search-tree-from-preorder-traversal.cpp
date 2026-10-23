@@ -14,7 +14,11 @@ public:
 
     TreeNode* solve (vector<int> &preorder, int &index, int mini, int maxi){
 
-        if(index > preorder.size() -1 || preorder[index] > maxi || preorder[index] < mini){
+        if(index > preorder.size() -1){
+            return NULL;
+        }
+
+        if(preorder[index] > maxi || preorder[index] < mini){
             return NULL;
         }
 
