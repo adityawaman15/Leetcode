@@ -12,25 +12,25 @@
 class Solution {
 public:
 
-    TreeNode* solve (vector<int> &preorder, int &index, int mini, int maxi, int &n){
+    TreeNode* solve (vector<int> &preorder, int &index, int mini, int maxi){
 
-        if(index > n || preorder[index] > maxi || preorder[index] < mini){
+        if(index > preorder.size() -1 || preorder[index] > maxi || preorder[index] < mini){
             return NULL;
         }
 
         TreeNode* root = new TreeNode(preorder[index++]);
-        root->left = solve(preorder,index, mini,root->val,n);
-        root->right = solve(preorder,index, root->val,maxi,n);
+        root->left = solve(preorder,index, mini,root->val);
+        root->right = solve(preorder,index, root->val,maxi);
 
         return root;
 
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n = preorder.size()-1;
+
         int i = 0;
 
         
-        return solve(preorder,i,INT_MIN,INT_MAX,n);
+        return solve(preorder,i,INT_MIN,INT_MAX);
         
     }
 };
