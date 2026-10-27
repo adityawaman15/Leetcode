@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adityawaman15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityawaman15/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityawaman15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/adityawaman15/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adityawaman15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityawaman15/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
@@ -144,9 +146,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adityawaman15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityawaman15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityawaman15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adityawaman15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adityawaman15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
